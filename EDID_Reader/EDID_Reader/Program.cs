@@ -13,7 +13,7 @@ namespace EDID_Reader
         static void Main(string[] args)
         {
             Console.Out.WriteLine("EDID dump for connected monitors.\n");
-            Console.Out.WriteLine("Please contact 'zack.wong@hp.com' if any question.");
+            Console.Out.WriteLine("Please contact 'zackwang0821@gmail.com' if any question.");
 
 
             var mc = new System.Management.ManagementClass(string.Format(@"\\{0}\root\wmi:WmiMonitorDescriptorMethods", Environment.MachineName));
