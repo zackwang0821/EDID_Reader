@@ -1,0 +1,7 @@
+C:\ZackWong\C#\EDID_Reader\EDID_Reader\EDID_Reader\bin\Release\EDID_Reader.exe.config
+C:\ZackWong\C#\EDID_Reader\EDID_Reader\EDID_Reader\bin\Release\EDID_Reader.exe
+C:\ZackWong\C#\EDID_Reader\EDID_Reader\EDID_Reader\bin\Release\EDID_Reader.pdb
+C:\ZackWong\C#\EDID_Reader\EDID_Reader\EDID_Reader\obj\Release\EDID_Reader.csproj.AssemblyReference.cache
+C:\ZackWong\C#\EDID_Reader\EDID_Reader\EDID_Reader\obj\Release\EDID_Reader.csproj.CoreCompileInputs.cache
+C:\ZackWong\C#\EDID_Reader\EDID_Reader\EDID_Reader\obj\Release\EDID_Reader.exe
+C:\ZackWong\C#\EDID_Reader\EDID_Reader\EDID_Reader\obj\Release\EDID_Reader.pdb
