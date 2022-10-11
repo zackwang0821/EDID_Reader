@@ -1,3 +1,3 @@
 # EDID_Reader
-Dump internal/external EDID via WMI.
-For Windows platform only.
+1. Dump internal/external monitor EDID via WMI.  
+2. For Windows platform only.(Linux xrandr command can dump EDID directly)
